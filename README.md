@@ -86,9 +86,8 @@ Running the R script saves:
 ## How to Run
 
 1. Download or clone this repository.
-2. Place `Melbourne_housing_FULL.csv` inside the `data/` folder.
-3. Open R or RStudio.
-4. Run:
+2. Open R or RStudio.
+3. Run:
 
 ```r
 source("scripts/melbourne_housing_analysis.R")
