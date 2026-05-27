@@ -14,13 +14,7 @@ This project is framed as a real-estate analytics use case where statistical mod
 
 ## Dataset
 
-The project uses the `Melbourne_housing_FULL.csv` dataset.
-
-The raw dataset is not included in this repository if the file is too large. To reproduce the project, place the dataset in the `data/` folder using the following path:
-
-```text
-data/Melbourne_housing_FULL.csv
-```
+The project uses the `data/Melbourne_housing_FULL.csv` dataset.
 
 ## Methods Used
 
@@ -60,7 +54,6 @@ melbourne-housing-price-analysis/
 │   └── tables/
 │
 ├── README.md
-└── .gitignore
 ```
 
 ## Outputs
